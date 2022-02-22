@@ -6,6 +6,20 @@
 - 🐦🔗 https://twitter.com/jaredmauck
 - 🕸️🔗 https://maucknetwork.net/blog
 
+## Certifications
+### Cisco
+- CCNP Enterprise
+- CCNA Security
+- CCDA
+- CMNA
+### CompTIA
+- A+
+- Security+
+- Project +
+### Others
+- Linux Essentials
+- ITILv4
+
 ## What I'm currently learning
 
 - 📚 Bachelor's of Science in Network Operations and Security from WGU 🦉
