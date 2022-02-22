@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Jared Mauck
-- 👀 I work with network automation
+- 👀 I work as a Network Engineer trying to automate my day to day
 - 🐍 I'm currently coding with Python
 - 👫 I’m looking to collaborate on Python network automation projects
 - 🐦🔗 https://twitter.com/jaredmauck
