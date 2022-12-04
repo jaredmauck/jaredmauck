@@ -6,6 +6,9 @@
 - 🐦🔗 https://twitter.com/jaredmauck
 - 🕸️🔗 https://maucknetwork.net/blog
 
+## Degrees
+- 📚 Bachelor's of Science in Network Operations and Security from WGU 🦉
+
 ## Certifications
 ### Cisco
 - CCNP Enterprise
@@ -21,9 +24,8 @@
 - ITILv4
 
 ## What I'm currently learning
-
-- 📚 Bachelor's of Science in Network Operations and Security from WGU 🦉
-- 📖 Cisco DevNet Associate 
+- 📖 Cisco DevNet
+- Advanced Routing Technologies
 
 <!---
 jaredmauck/jaredmauck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
