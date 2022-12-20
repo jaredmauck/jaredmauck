@@ -5,6 +5,7 @@
 - 👫 I’m looking to collaborate on network automation projects that utilize 🐍
 - 🐦🔗 https://twitter.com/jaredmauck
 - 🕸️🔗 https://maucknetwork.net/blog
+- 🔗 https://hachyderm.io/@jaredm
 
 ## Degrees
 - 📚 Bachelor's of Science in Network Operations and Security from WGU 🦉
