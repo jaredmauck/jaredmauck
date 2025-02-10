@@ -3,9 +3,6 @@
 - 👋 Hi, I’m Jared Mauck
 - 👀 I work as a Network Engineer trying to automate my day to day with 🐍
 - 👫 I’m looking to collaborate on network automation projects that utilize 🐍
-- 🐦🔗 https://twitter.com/jaredmauck
-- 🕸️🔗 https://maucknetwork.net/blog
-- 🔗 https://hachyderm.io/@jaredm
 
 ## Degrees
 - 📚 Bachelor's of Science in Network Operations and Security from WGU 🦉
@@ -25,8 +22,8 @@
 - ITILv4
 
 ## What I'm currently learning
-- 📖 Cisco DevNet
-- Advanced Routing Technologies
+- 📖 AWS Solutions Architect - Associate
+- 📖 AWS Advanced Networking
 
 <!---
 jaredmauck/jaredmauck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
